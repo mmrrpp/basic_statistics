@@ -1,64 +1,52 @@
-# Basic Statistics
+## Basic Statistics
 
 * Cases
 * Variables
 * Constants
 
-## Types of variables
+### Types of variables
 
-### Categorical
+##### Categorical
 
 * Nominal (different) / gender, city, country..
 * Ordinal (different, order) / standings
 
-### Quantitative
-* Interval (different, order, similar intervals) 
+##### Quantitative
+* Interval (different, order, similar intervals) age
+* Ratio (different, order, similar intervals, significant zero) height
 
-/ age
-* Ratio (different, order, similar intervals, 
-
-significant zero) / height
-
-### Types of quantitative variables:
+##### Types of quantitative variables:
 
 * Discrete
 * Continuous
 
-### Issues
+##### Issues
 
 In practice: 
 * Many times: interval = ordinal 
-* Ordinal = interval if there is a scale with at 
+* Ordinal = interval if there is a scale with at least 10 categories
 
-least 10 categories
-
-## Data Matrix and Frecuency Tables
+### Data Matrix and Frecuency Tables
 
 * Categorical variable: categories
-* Quantitative variable: create ordinal 
+* Quantitative variable: create ordinal categories
+* You can go to quantitative into ordinal, not the other way around
 
-categories
-* You can go to quantitative into ordinal, not 
+### Graphics
 
-the other way around
+#### Types of graphics
 
-## Graphics
-
-### Types of graphics
-
-## Categorical variables
+##### Categorical variables
 
 * Pie: few cases
 * Bar: lots of cases
 
-## Quantitative variable
+###### Quantitative variable
 
 * Dotplot (puntos)
-* Histogram (intervals/ bars = underlying 
-
-continuous scale)
+* Histogram (intervals/ bars = underlying continuous scale)
  
-# Types of histograms
+### Types of histograms
 
 * Bell shaped
 * Skewed left/right
